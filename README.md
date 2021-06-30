@@ -1,6 +1,8 @@
 # two_eventchannels
 
-A new Flutter project.
+A new Flutter project that contains source for my blog:
+here:
+[Using more than one Event channels in Flutter](https://blog.iampato.me/using-more-than-one-event-channels-in-flutter)
 
 ## Getting Started
 
